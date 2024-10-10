@@ -1,9 +1,12 @@
 [submodule "RX24-COMMS"]
 	path = RX24-COMMS
 	url = https://github.com/InspirationRobotics/RX24-COMMS.git
+	branch = main
 [submodule "RX24-perception"]
 	path = RX24-perception
 	url = https://github.com/InspirationRobotics/RX24-perception.git
+	branch = main
 [submodule "RX24-GNC"]
 	path = RX24-GNC
 	url = https://github.com/InspirationRobotics/RX24-GNC.git
+	branch = main
