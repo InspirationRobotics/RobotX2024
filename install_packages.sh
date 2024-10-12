@@ -17,3 +17,5 @@ pip3 install -e .
 # Setup control packages
 cd ../../RX24-GNC
 git checkout main
+cd mission
+pip3 install -e .
