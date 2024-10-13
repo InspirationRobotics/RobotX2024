@@ -13,6 +13,8 @@ cd camera
 pip3 install -e .
 cd ../lidar
 pip3 install -e .
+cd ../perception
+pip3 install -e .
 
 # Setup control packages
 cd ../../RX24-GNC
