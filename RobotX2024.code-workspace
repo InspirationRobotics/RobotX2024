@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../livox/ws_livox"
+		},
+		{
+			"path": "../RX24-OCB"
 		}
 	],
 	"settings": {}
