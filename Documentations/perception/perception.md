@@ -107,6 +107,6 @@ commands = {
     "record": ["all"],
     "stop_record": ["starboard"],
     "load_model": [("port", "models/detector.onnx")],
-    "stop_model": ["all"]g
+    "stop_model": ["all"]
 }
 
